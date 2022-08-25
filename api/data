@@ -1,0 +1,6 @@
+<!-- Simple page to test for http redirects ->>
+<html>
+<script>
+if (1==1){window.location.replace('https://iiimlszmyhpca4uuup3xet7dlm.odiss.eu/REDIRECTED');}
+</script>
+</html>
